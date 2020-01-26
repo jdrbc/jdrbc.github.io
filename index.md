@@ -6,7 +6,7 @@ layout: default
 
 I'm a Vancouver-based software developer with interests in too many things to get useful at any one of them :)
 
-I've worked at [Traction On Demand](https://tractionondemand.com/) for about 5 years as a software developer & more recently as a development team lead on the [Traction Rec](https://www.tractionrec.com/) Salesforce App Exchange App. What's cool from a development point of view about Salesforce?
+I've worked at [Traction On Demand](https://tractionondemand.com/) for about 5 years as a software developer & more recently as a development team lead on the [Traction Rec](https://www.tractionrec.com/). What's cool from a development point of view about Salesforce?
 
 - work with cutting edge technology 
   - [like declarative development tools such as Salesforce Flows](https://trailhead.salesforce.com/en/content/learn/modules/business_process_automation/flow), 
