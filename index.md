@@ -4,7 +4,7 @@ layout: default
 ---
 # about me
 
-I've worked at [Traction On Demand](https://tractionondemand.com/) for since 2015 years as a software developer & more recently as a development team lead on the [Traction Rec](https://www.tractionrec.com/) Salesforce App Exchange App. What's cool from a development point of view about Salesforce?
+I've worked at [Traction On Demand](https://tractionondemand.com/) since 2015 as a software developer & more recently as a development team lead on [Traction Rec](https://www.tractionrec.com/). What's cool from a development point of view about Salesforce?
 
 - work with cutting edge technology 
   - [like declarative development tools such as Salesforce Flows](https://trailhead.salesforce.com/en/content/learn/modules/business_process_automation/flow), 
