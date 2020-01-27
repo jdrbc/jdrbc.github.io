@@ -11,7 +11,7 @@ I've worked at [Traction On Demand](https://tractionondemand.com/) for about 5 y
 - work with cutting edge technology 
   - [like declarative development tools such as Salesforce Flows](https://trailhead.salesforce.com/en/content/learn/modules/business_process_automation/flow), 
   - [web components](https://developer.salesforce.com/docs/component-library/documentation/lwc), 
-  - [development tools](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_dev2gp.htm)
+  - [new development tools](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_dev2gp.htm)
   - and [high volume services](https://developer.salesforce.com/blogs/engineering/2013/10/under-the-hood-how-the-salesforce-platform-handles-1-3-billion-transactions-per-day.html)
 - a small but fun development community
   - [have fun reading humorous abridged release notes](https://www.reddit.com/r/salesforce/comments/d1qc3r/winter_20_release_notes_abridged_edition/)
