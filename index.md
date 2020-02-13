@@ -21,7 +21,7 @@ I've worked at [Traction On Demand](https://tractionondemand.com/) since 2015 as
 
 Finally, there's something to be said about gaining a niche skill. I've really enjoyed working at Traction, partly because it is a fun company, and partly because all of the above is magnified within the context of a small company. There are a ton of unsolved problems up for grabs.
 
-So Salesforce development is my bread & butter. My other interests are:
+So Salesforce development is my bread & butter. My other professional interests are:
 
 - learning & education systems
 - [computer generated art](https://github.com/jdrbc/SimpleBackgrounds)
