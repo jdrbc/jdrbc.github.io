@@ -23,9 +23,9 @@ A person holding a box that contains the universe can peek at any moment in time
 
 (There is also another paradox here: how does the computer perfectly simulate itself, simulating itself, simulating itself, ...?)
 
-Impressively, this conumdrum is addressed directly in the show *twice*. Two characters are watching the simulated universe. One says to the other: 'suppose we looked at ourselves 30 seconds into the future and did the opposite of whatever was predicted?', and in response the other rolls her eyes. Then the scene ends.
+Impressively, this conumdrum is addressed directly in the show *twice*. Two characters are watching the simulated universe. One says to the other, 'suppose we looked at ourselves 30 seconds into the future and did the opposite of whatever was predicted?'. In response the other rolls her eyes. Then the scene ends.
 
-As a viewer, this scene is extremely frustrating. However, when you come to understand how the machine actually works, and the motivations of the players, you will arrive at a very satisfying answer. 
+Initially this scene is extremely frustrating. However, when you come to understand how the machine actually works, and the motivations of the players, you will arrive at a very satisfying answer. 
 
 And the second time the paradox is addressed the show delivers a very satisfying answer to the question of free will.
 
