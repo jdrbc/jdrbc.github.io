@@ -24,6 +24,7 @@ section {
 }
 
 footer {
+    width: 300px;
     position: static;
     float: none;
     margin: auto;
@@ -52,6 +53,7 @@ footer {
     overflow: auto;
     position: relative;
     z-index: 1;
+    width: 500px;
 }
 
 #mainCanvas {
