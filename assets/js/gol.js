@@ -38,11 +38,24 @@ window.mouseDown = false;
 // Object tracking grid coordinates of the last cell clicked or touched by the user
 window.lastCellClicked = null;
 
+window.returntoffps = 1;
+
 // Number reflecting how quickly the game moves through steps
 window.fps = 1;
 
 // Symmetry switch for cell creation
 window.symmetry = false;
+
+function boom() {
+    for (var i = 0; i < window.numCellsX; i++) {
+        window.grid[i] = [];
+        for (var j = 0; j < window.numCellsY; j++) {
+            // Assign state to the cell
+            window.grid[i][j] = Math.random() >= 0.5;
+        }
+    }
+    window.fps = 30;
+}
 
 // Set up and start the game
 function init() {
@@ -100,6 +113,7 @@ function gameLoop() {
         window.grid = getNextState();
         draw();
     }
+    if (window.fps > window.returntoffps) { window.fps -= 1; }
     setTimeout(gameLoop, 1000 * (1 / window.fps));
 }
 
