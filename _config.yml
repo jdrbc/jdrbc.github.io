@@ -19,9 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: jdrbc
-description: >- # this means to ignore newlines until "baseurl:"
-  Motivating myself to keep slightly less garbage notes by blogging
-logo: /assets/images/glider.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jdrbc.ca" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jdrbc

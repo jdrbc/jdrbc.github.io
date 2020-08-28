@@ -1,0 +1,66 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    position: static;
+    float: none;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 0;
+}
+
+section {
+    position: static;
+    float: none;
+    margin: auto;
+}
+
+footer {
+    position: static;
+    float: none;
+    margin: auto;
+    text-align: center;
+}
+
+#postlistcontainer {
+    margin: auto;
+    text-align: center;
+}
+
+#postlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.postlistitem {
+    padding-top: 10px;
+}
+
+.wrapper {
+    margin: 50px auto;
+    padding: 10px;
+    background-color: rgba(245, 245, 245, 0.9);
+    overflow: auto;
+    position: relative;
+    z-index: 1;
+}
+
+#mainCanvas {
+    width: auto;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    z-index: 0;
+}
+

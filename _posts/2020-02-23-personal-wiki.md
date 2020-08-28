@@ -1,3 +1,8 @@
+---
+title: Personal Wiki
+layout: post
+---
+
 This post details my note-taking and review system that uses plaintext & markdown format and is hosted for free on Github. This system aids [effective learning](http://nywkap.com/learning/effective-learning.html).
 
 ## Why?
