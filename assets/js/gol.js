@@ -90,22 +90,6 @@ function init() {
             }
         }
     }
-
-    // Draw the game board
-    draw();
-
-    // Redraw the grid when the window is resized
-    window.addEventListener('resize', init);
-
-    // Add canvas event listener for mouse/touch events
-    canvas.addEventListener('mousedown', onCanvasMouseDown, false);
-    canvas.addEventListener('mouseup', onCanvasMouseUp, false);
-    canvas.addEventListener('mousemove', onCanvasMouseMove, false);
-    canvas.addEventListener('touchstart', onCanvasTouchStart, false);
-    canvas.addEventListener('touchmove', onCanvasTouchMove, false);
-    canvas.addEventListener('touchend', onCanvasTouchEnd, false);
-
-    gameLoop();
 }
 
 function gameLoop() {
@@ -199,8 +183,6 @@ function clickCell(x, y) {
     if (window.mouseDown) {
         // Get the grid coordinates of the cell
         var coords = getCellGridCoordinates(x, y);
-        console.log(`x: ${x} y: ${y}`)
-        console.log('coords: ' + JSON.stringify(coords));
         // Return if the coordinates are not on the grid
         if (coords === null) {
             return null;
@@ -346,3 +328,15 @@ function onCanvasTouchEnd() {
 }
 
 init();
+gameLoop();
+// Redraw the grid when the window is resized
+window.addEventListener('resize', init);
+
+// Add canvas event listener for mouse/touch events
+var canvas = document.getElementById('mainCanvas');
+canvas.addEventListener('mousedown', onCanvasMouseDown, false);
+canvas.addEventListener('mouseup', onCanvasMouseUp, false);
+canvas.addEventListener('mousemove', onCanvasMouseMove, false);
+canvas.addEventListener('touchstart', onCanvasTouchStart, false);
+canvas.addEventListener('touchmove', onCanvasTouchMove, false);
+canvas.addEventListener('touchend', onCanvasTouchEnd, false);
