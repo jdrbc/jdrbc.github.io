@@ -1,38 +1,38 @@
 ---
 layout: post
-title: 'Extreme Ownership'
+title: "Book Review: Extreme Ownership"
 tags: Leadership, books
 ---
 
-Extreme Ownership by  Jocko Willink and Leif Babin is about the qualities of an effective leader. The key point is that these qualities are transferrable, and an effective leader instills these qualities in his team.
+Extreme Ownership by Jocko Willink and Leif Babin is about the qualities of an effective leader. The key point is that these qualities are transferrable, and an effective leader instills these qualities in his team.
 
 There are 12 qualities and 12 chapters. Each chapter describes the quality and contains two real-world examples of a business leader and a military leader showing that quality.
 
 ## Chapters
 
 - Mindsets
-    - Extreme ownership
-    - No bad teams only bad leaders
-    - Believe
-    - Check the ego
+  - Extreme ownership
+  - No bad teams only bad leaders
+  - Believe
+  - Check the ego
 - Behaviours
-    - Cover and move
-    - Simple
-    - Prioritize and execute
-    - Decentralized command
+  - Cover and move
+  - Simple
+  - Prioritize and execute
+  - Decentralized command
 - Misc.
-    - Plan
-    - Leading up and down the chain of command
-    - Decisiveness amid uncertainty
-    - Discipline equals freedom - the dichotomy of leadership
+  - Plan
+  - Leading up and down the chain of command
+  - Decisiveness amid uncertainty
+  - Discipline equals freedom - the dichotomy of leadership
 
 ## Mindsets
 
 ### Extreme ownership
 
-An effective leader is proactive and makes her team proactive. 
+An effective leader is proactive and makes her team proactive.
 
-Excuses kill proactiveness. To defer responsibility for failure is to fail to grow. Accept responsibility for failure to take the first step in growth. 
+Excuses kill proactiveness. To defer responsibility for failure is to fail to grow. Accept responsibility for failure to take the first step in growth.
 
 > they try to figure out how to fix their problems—instead of trying to figure out who or what to blame
 
@@ -72,7 +72,7 @@ An effective leader keeps plans and communication simple.
 
 ### Prioritize and execute
 
-An effective leader prioritizes goals and communicates the priorities. She then directs all required resources to achieve the top goal. Any remaining resources are dedicated to the next goal, but only if doing so does not add risk to the top goal. 
+An effective leader prioritizes goals and communicates the priorities. She then directs all required resources to achieve the top goal. Any remaining resources are dedicated to the next goal, but only if doing so does not add risk to the top goal.
 
 An effective leader is constantly re-evaluating the priority list. This means she is not fixated on a single problem.
 
@@ -95,12 +95,12 @@ An effective leader makes plans and & evaluates the success of her plans.
 - Understand the strategic goal
 - identify personnel, resources, assets, and timeline
 - determine a course of action
-    - simple is good
-    - focus efforts 
+  - simple is good
+  - focus efforts
 - identify risks
 - mitigate risks
-- decentralize planning by delegating portions of the plan  
-    - do not get bogged down in the details
+- decentralize planning by delegating portions of the plan
+  - do not get bogged down in the details
 - continually reevaluate the plan
 - brief the plan to the participants - focus on the goal to decentralize the command
 - conduct a debrief & adapt in the future
@@ -109,7 +109,7 @@ An effective leader makes plans and & evaluates the success of her plans.
 
 ### Leading up and down the chain of command
 
-An effective leader fosters good two-way communication between himself and his leaders and between himself and his followers. 
+An effective leader fosters good two-way communication between himself and his leaders and between himself and his followers.
 
 > if your team isn’t doing what you need them to do, you first have to look at yourself. Rather than blame them for not seeing the strategic picture, you must figure out a way to better communicate it to them in terms that are simple, clear, and concise, so that they understand. This is what leading down the chain of command is all about.
 

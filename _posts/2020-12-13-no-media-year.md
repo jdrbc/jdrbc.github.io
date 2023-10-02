@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'No Media Year'
+title: "Project: No Media Year"
 tags: media
 ---
 
@@ -22,12 +22,12 @@ They also have negative aspects:
 
 On balance it looks like a low cost & a potentially high reward experiment.
 
-One particular thorny aspect is that a few minutes spent on a game or Youtube can easily snowball into a few hours. This is no surprise! These products are designed to be very sticky. The 'hook' at the end of a TV show, the 'next' button in Youtube & a super tight game loop all serve to keep one watching for as long as possible. I've decided to drop my video consumption to zero, instead of some low-but-pleasant number, so that I do not have to fight my desire to keep watching. Counter-intuitively, it's easier to not watch than it is to watch a little. Another strategy I have for making this easier is just swap any game playing or tv-watching with reading. 
+One particular thorny aspect is that a few minutes spent on a game or Youtube can easily snowball into a few hours. This is no surprise! These products are designed to be very sticky. The 'hook' at the end of a TV show, the 'next' button in Youtube & a super tight game loop all serve to keep one watching for as long as possible. I've decided to drop my video consumption to zero, instead of some low-but-pleasant number, so that I do not have to fight my desire to keep watching. Counter-intuitively, it's easier to not watch than it is to watch a little. Another strategy I have for making this easier is just swap any game playing or tv-watching with reading.
 
 I think, on average, I spent around 2 hours on weekdays and 4 on the weekends on these activies. Initially it took a lot of willpower to break these habits. In the past two months I've replaced almost all of this time with reading or audiobooks. It hasn't been very productive reading, but I have read a lot.
 
 - An anthology of sci-fi stories
-- "The Martian" by Andy Weir 
+- "The Martian" by Andy Weir
 - "The Storm Before the Storm" by Mike Duncan (he has some great podcasts too)
 - "Ready Player One" by Ernest Cline
 - "World War Z" by Max Brooks
@@ -38,13 +38,13 @@ I think, on average, I spent around 2 hours on weekdays and 4 on the weekends on
 - "A Brief History Of Time" by Steven Hawking
 - "Hiroshima" by John Hersey
 
-That is an unusual number of books for me to have read in two months. I am surprised now that I had enough time for it. This isn't much better than watching TV but it's certainly not worse. 
+That is an unusual number of books for me to have read in two months. I am surprised now that I had enough time for it. This isn't much better than watching TV but it's certainly not worse.
 
 I also found that I've had more time for random projects. I've built a work table and a shelf.
 
 So, I'm wasting time in new ways and may be a little more productive in other ways.
 
-My mental state has changed a little since the start of the experiment. Early on, I'd have random thoughts about a great movie, or game & have a little pang of yearning. That yearning would sometimes be followed by a feeling of regret upon realizing I wouldn't be able to immerse myself in that experience. Thoughts and feelings like that are rare for me now. I'm not aware of being less stressed or more happy, although my partner says that I seem less stressed. 
+My mental state has changed a little since the start of the experiment. Early on, I'd have random thoughts about a great movie, or game & have a little pang of yearning. That yearning would sometimes be followed by a feeling of regret upon realizing I wouldn't be able to immerse myself in that experience. Thoughts and feelings like that are rare for me now. I'm not aware of being less stressed or more happy, although my partner says that I seem less stressed.
 
 For the rest of the experiment I want to focus my reading into non-fiction. I'd also like to start writing reviews of these books to cement any takeaways. I expect that other than minor tweaks the year will be basically the same as the past two months.
 
@@ -55,7 +55,7 @@ Here are some strategies / observations for those thinking of reducing their med
 - **Worthless Timers.** Don't bother with an app-enforced timer that you can easily turn off. It's either a hard limit or no limit. Soft limits give you the sense of accomplishing something without giving you any real benefit. Device 'cookie jars', editing the hosts file & block-site add ons are good example of hard limits.
 - **Watch To Learn.** Do not form any habits around YouTube. The subscription feature is very habit forming. Unsubscribe from all channels & only use YouTube as a search engine.
 - **Games That End.** When gaming, try to pick games that seem like they will have an end point. Skyrim is a sprawling & unending world. Firewatch and The Untitled Goose Game are both great games that have an ending.
-- **Games With Teeth.** You'll also want to avoid obviously addictive games. Don't play anything from Blizzard. Blizzard games are just fancy slot machines. Sometimes you'll only discover that a game is addictive *after* you're already addicted. For example, The Spire is a surprisingly addictive game. You're addicted when the following happens: there's a natural stopping point (end of level, boss beaten, ect), you realize it would be good to stop, you don't stop, and when you finally stop, you regret not stopping sooner. At that point, if you can stand it, uninstall the game. That's the easy path. The harder path is to commit yourself to achieving 'the goal' (usually beating the last boss). Uninstall the game once the goal is reached. The game will have many more difficulties and twists for dedicated players. Ignore those and move on. 
-- **Groking the Game.** This is another way to beat an addictive game. Sometimes the satisfaction of understanding the mechanics and design of a game can be enough to allow you to put it down.  
-- **TV Series That End.** Only watch TV series that are currently being produced, or that are finished and are short. Don't start a series that has multiple seasons ready to be watched immediately; doing so is setting yourself up for a regrettable bing-session. 
+- **Games With Teeth.** You'll also want to avoid obviously addictive games. Don't play anything from Blizzard. Blizzard games are just fancy slot machines. Sometimes you'll only discover that a game is addictive _after_ you're already addicted. For example, The Spire is a surprisingly addictive game. You're addicted when the following happens: there's a natural stopping point (end of level, boss beaten, ect), you realize it would be good to stop, you don't stop, and when you finally stop, you regret not stopping sooner. At that point, if you can stand it, uninstall the game. That's the easy path. The harder path is to commit yourself to achieving 'the goal' (usually beating the last boss). Uninstall the game once the goal is reached. The game will have many more difficulties and twists for dedicated players. Ignore those and move on.
+- **Groking the Game.** This is another way to beat an addictive game. Sometimes the satisfaction of understanding the mechanics and design of a game can be enough to allow you to put it down.
+- **TV Series That End.** Only watch TV series that are currently being produced, or that are finished and are short. Don't start a series that has multiple seasons ready to be watched immediately; doing so is setting yourself up for a regrettable bing-session.
 - **Movies.** I've never really regretted watching a movie. Go nuts!

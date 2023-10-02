@@ -1,5 +1,5 @@
 ---
-title: Personal Wiki
+title: "Project: Personal Wiki"
 layout: post
 ---
 
@@ -8,21 +8,23 @@ This post details my note-taking and review system that uses plaintext & markdow
 ## Why?
 
 Here are the problems I am trying to help solve with this system:
-   - rusting of useful skills
-   - forgetting useful information from books or talks
-   - slow or ineffective learning
+
+- rusting of useful skills
+- forgetting useful information from books or talks
+- slow or ineffective learning
 
 Some additional side benefits:
-   - store notes for free
-   - easy cross-platform access to notes
-   - easy access to notes in python scripts (no need to muss about with APIs)
-   - no dependency on Evernote, Notion, Google Keep, One Note or similar service reduces privacy & longevity concerns.
+
+- store notes for free
+- easy cross-platform access to notes
+- easy access to notes in python scripts (no need to muss about with APIs)
+- no dependency on Evernote, Notion, Google Keep, One Note or similar service reduces privacy & longevity concerns.
 
 ## Details
 
 ### Snapshot
 
-Here's a snapshot of my top-level notes folder. Folders containing notes on books or courses start with `learn_`, and folders containing project notes start with `project_`. 
+Here's a snapshot of my top-level notes folder. Folders containing notes on books or courses start with `learn_`, and folders containing project notes start with `project_`.
 
     - books/
         - epubs & pdfs for easy reference
@@ -56,7 +58,7 @@ Here's a snapshot of my top-level notes folder. Folders containing notes on book
 
 ### Automated Syncing
 
-I use [Syncthing](https://syncthing.net/) to sync my notes across my devices. After the finicky setup, it has worked perfectly. 
+I use [Syncthing](https://syncthing.net/) to sync my notes across my devices. After the finicky setup, it has worked perfectly.
 
 I also push my notes up to Github so that I can access them from my work computer. This happens on my phone via a cron job running in [Termux](https://termux.com/).
 
@@ -65,18 +67,19 @@ I also push my notes up to Github so that I can access them from my work compute
 My markdown notes contain images and are hyperlinked together and so I need a markdown reader on each device.
 
 - Android / Chromebook
-    - I use the excellent [Markor](https://github.com/gsantner/markor) app
-    - [Quickedit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit&hl=en_CA) doesn't have markdown support but is a half-decent mobile editing experience
+  - I use the excellent [Markor](https://github.com/gsantner/markor) app
+  - [Quickedit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit&hl=en_CA) doesn't have markdown support but is a half-decent mobile editing experience
 - Windows
-    - [VSCode](https://code.visualstudio.com/) has excellent markdown support
-    - [Typora](https://typora.io/) is also a slick markdown reader & editor 
-    - And on my work machine I use Github
+  - [VSCode](https://code.visualstudio.com/) has excellent markdown support
+  - [Typora](https://typora.io/) is also a slick markdown reader & editor
+  - And on my work machine I use Github
 
 ### Automated Review
 
-Reviewing information is an important step in learning because it prevents forgetting! Forgetting is good and natural. For example, forgetting whatever nonsense you saw on Reddit clears space for useful information. Typically, useful information is *repeated*. Information required for work is repeated and so is remembered. However, some useful information is not repeated. Information in books, presented at a conference, or learned on a side project tends to be a one-time affair. Dedicated review time is required to prevent forgetting.
+Reviewing information is an important step in learning because it prevents forgetting! Forgetting is good and natural. For example, forgetting whatever nonsense you saw on Reddit clears space for useful information. Typically, useful information is _repeated_. Information required for work is repeated and so is remembered. However, some useful information is not repeated. Information in books, presented at a conference, or learned on a side project tends to be a one-time affair. Dedicated review time is required to prevent forgetting.
 
 An effective review strategy:
+
 - repeats information as little as possible,
 - summarizes & compresses information,
 - primes the information for use.
@@ -91,11 +94,11 @@ Here's the review schedule itself. Each link is clickable & will open up the rel
 
 ![review shortcut](/assets/images/review_schedule.jpg)
 
-Here's a linked note. When I'm done reviewing I add a 'd' after the review tag. This tells the review schedule script to increment the last reviewed date and increment the review number. Any note containing a review tag will be added to the review schedule. Adding 'rme' to the top of a note will queue it up for review. 
+Here's a linked note. When I'm done reviewing I add a 'd' after the review tag. This tells the review schedule script to increment the last reviewed date and increment the review number. Any note containing a review tag will be added to the review schedule. Adding 'rme' to the top of a note will queue it up for review.
 
 ![a note](/assets/images/to_review.jpg)
 
-My review schedule code is very rough and personalized. Here [it is](https://gist.github.com/jdrbc/08c43acb89b6dfa232e62ed19d5aa0dc) if you'd like to adapt it for your use. 
+My review schedule code is very rough and personalized. Here [it is](https://gist.github.com/jdrbc/08c43acb89b6dfa232e62ed19d5aa0dc) if you'd like to adapt it for your use.
 
 ### Other Automation
 
@@ -109,7 +112,7 @@ I use Termux cronjobs to:
 
 ![I swear it's not like this](https://imgs.xkcd.com/comics/workaround.png)
 
-Using a simple folder structure and Markdown format to keep notes in combination with Syncthing and Github makes it easy to access notes from many different devices. Writing scripts that parse the notes is a powerful time-saving tool. 
+Using a simple folder structure and Markdown format to keep notes in combination with Syncthing and Github makes it easy to access notes from many different devices. Writing scripts that parse the notes is a powerful time-saving tool.
 
 A spaced repetition review schedule is a part of an effective learning system, and the reminders.py script can automatically create this review schedule.
 
