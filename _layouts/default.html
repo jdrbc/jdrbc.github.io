@@ -20,9 +20,8 @@
         <h1><a href="{{ "/" | absolute_url }}">John Rogers</a></h1>
 
         <p>
-          <a href="/about.html">about me</a>
-          | <a href="https://github.com/jdrbc">github</a>
-          | <a href="https://www.linkedin.com/in/jdrbc">linkedin</a>
+        <a href="https://github.com/jdrbc">github</a>
+        | <a href="https://www.linkedin.com/in/jdrbc">linkedin</a>
         </p>
 
         {% if site.show_downloads %}
@@ -43,10 +42,6 @@
           onclick="boom();">
           <div style="padding: 10px;">💣</div>
         </button>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; based on <a href="https://github.com/orderedlist/minimal">minimal theme</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
